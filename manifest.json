@@ -3,7 +3,7 @@
   "author": "Raicuparta",
   "name": "Jammer Lore",
   "uniqueName": "Raicuparta.jammerlore",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "owmlVersion": "2.1.0",
   "dependencies": [
     "xen.NewHorizons"
