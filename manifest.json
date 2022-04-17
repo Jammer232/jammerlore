@@ -1,8 +1,8 @@
 {
   "filename": "NewHorizonsConfig.dll",
-  "author": "Raicuparta",
+  "author": "Jammer",
   "name": "Jammer Lore",
-  "uniqueName": "Raicuparta.jammerlore",
+  "uniqueName": "Jammer.jammerlore",
   "version": "0.1.0",
   "owmlVersion": "2.1.0",
   "dependencies": [
